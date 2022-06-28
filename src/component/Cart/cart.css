@@ -1,0 +1,21 @@
+.item{
+    text-align: center;
+}
+.order{
+    text-align: center;
+}
+.total{
+     background: rgb(197, 97, 4);
+     padding: 15px;
+     font-size: 20px;
+     color: aliceblue;
+     text-align: center;
+    
+}
+p{
+    font-size: 18px;
+    font-weight: 400;
+}
+.cart-basic{
+    margin-left: 20px;
+}
